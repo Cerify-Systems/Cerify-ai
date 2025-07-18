@@ -194,3 +194,4 @@ For issues and questions:
 2. Review the console logs
 3. Ensure all dependencies are installed
 4. Verify both servers are running # Cerify-Complete
+# Cerify-ai
